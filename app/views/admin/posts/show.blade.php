@@ -1,0 +1,1 @@
+/home/scitecs0/projects/laravel-blog/app/views/posts/show.blade.php
